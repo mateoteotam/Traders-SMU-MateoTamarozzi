@@ -1,65 +1,47 @@
 # Personal Goals Document - Traders@SMU Alpha Program
 
-*Replace this text with your full name*  
-*Replace this text with your SMU email address*  
-*Level 1 (Junior) or Level 2 (Associate)*
+Mateo Tamrozzi
+mtamarozzi@smu.edu 
+Level 1
 
 ## 1. Background in Quantitative Finance
+The thing that first sparked my interest within the world of Quantitative Finance is my internship I did my senior year and summer going into freshman year of college. During
+my time in the office of a precious metals trading desk, I learned many differnet aspects that go into the trading world, I learned key functions and market termonolagy from
+expereienced traders. This is what sparked my interest in the trading realm, but as I got deeper into it I realized there were many different paths within it. One of them being
+presented to me when I came to SMU, the quantitative traders club, with my background from my internship, I knew immediatly I wanted to join a club of likeminded people
+interested in trading. This was my first introduction into the quant world and wanted to learn more through the opportunity presented to me.
 
-*In this section, describe your current background in quantitative finance. This could include:*
-- *Relevant coursework or degrees*
-- *Previous internships or jobs*
-- *Personal projects or research*
-- *Trading experience (if any)*
-- *What sparked your interest in quant finance*
-
-*Delete these instructions and write 100-150 words*
 
 ## 2. Career Goals
 
-*In this section, outline your short and long-term career goals. Be specific about:*
-- *What roles or positions interest you*
-- *Which companies or types of firms you'd like to work for*
-- *Specific areas of finance you want to specialize in*
-- *What you hope to achieve in 1, 5, and 10 years*
+This is a difficult question for me since I am still trying to figure out what field I want to commit myself to. I am currently an econ major but have hopes to transfer into
+COX to start my journey in finance. As of right now I am going down the "trading" path you could say, some roles that interest me is a commodity trader since this is the
+field I did my internship in and the only one I have experience with. A company that I am interested in like many other kids in my position is JP Morgan, an exclusive and
+prestigious corporation. In a year from now I hope to be some sort of major in COX, in 5 years from now I would like to have a good job and hopefully looking to clib the
+ranks of the firm I join. In 10 years I hope to be able to look for the opportunity of starting my own proprietary trading desk.
 
-*Delete these instructions and write 100-150 words*
 
 ## 3. What I Hope to Learn from This Program
 
-*In this section, describe what specific knowledge, skills, or experiences you hope to gain from the Alpha Program:*
-- *Technical skills (programming, math, statistics)*
-- *Financial concepts and trading strategies*
-- *Specific tools or platforms*
-- *Networking opportunities*
-- *How this program fits into your overall learning path*
+Having a small background in trading already I feel I am ready to take on more advanced trading strategy and go more in depth with those. A big thing is developing my overall
+math skills, like stats. I have 0 background in coding, and with the quant club which is heavily dependent on coding I would like to learn some of the basics of python.
+With the path I am on, the main thing I would like to focus on is information on what affects markets and how to capitilize on opportunities when these affects occure.
+Developing my overall market knowledge.
 
-*Delete these instructions and write 100-150 words*
 
 ## 4. Current Technical Skills
 
-*In this section, honestly assess your current technical skills. Rate yourself (Beginner/Intermediate/Advanced) in:*
-- *Programming languages (Python, R, etc.)*
-- *Data analysis tools*
-- *Statistical analysis*
-- *Financial modeling*
-- *Machine learning*
-- *Version control (Git)*
-- *Other relevant skills*
+For Programming languages, such as python, c++, java, ect. I would rank myself as a beginner in those topics
+For Data analysis tools, I would say I am a beginner in this aswell, having little knowledge in the topics
+I think I rank around intermediate for statistical analysis with some background knowledge in it.
+I would say I am a beginner for financial modeling and a complete beginner in machine learning
+I am a beginner in version control.
 
-*Delete these instructions and write 75-100 words*
 
 ## 5. Development Plan & Program Goals
 
-*In this section, outline:*
-- *Specific skills you plan to develop during this program*
-- *How you will measure your progress*
-- *Time commitment you're planning to dedicate each week*
-- *Resources you'll use beyond the program materials*
-- *Your definition of success for this program*
-
-*Delete these instructions and write 100-150 words*
-
----
-
-*I understand that this document will be used to track my progress throughout the program and may be referenced during career counseling sessions. I commit to working toward these goals during the Traders@SMU Alpha Program.*
+I plan on developing mostly my math skills, such as statistical analysis and even hoping to improve my mental math. I also would like to learn more about market analysis and
+learn about key features that have affects on the markets. I feel that I can measure my progress by measuring my understanding of market analysis and be able to apply those
+strategies to my personal trading. I can measure my math skills by doing progressivly more difficult questions. I plan on commiting 2-4 hrs a week within the club. I think
+some resources that may help is quantopian and the green book. My definition of success in this program is being able to apply the skills learned to my personal trading
+straregies and even beyond just trading.
